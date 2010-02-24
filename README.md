@@ -18,4 +18,4 @@ The API was originally developed by [Jason Crist](http://pbking.com/) and author
 
 If you are looking for the deprecated code and samples, see the 'tag/version2' directory in the repository or search for files with the 'Deprecated' tag in the downloads section.
 
-For questions and inquiries about this library, please contact Daniel Dura at Adobe Systems via email at (ddura@adobe.com). Submit bug reports, patches, or feature requests via the issue tracker.
+For questions and inquiries about this library, please contact Daniel Dura at Adobe Systems via email at <ddura@adobe.com>. Submit bug reports, patches, or feature requests via the issue tracker.
